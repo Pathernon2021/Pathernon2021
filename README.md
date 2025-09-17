@@ -1,16 +1,33 @@
-## Hi there 👋
+# Jonatas  Santine 
 
-<!--
-**Pathernon2021/Pathernon2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technology Professional**
 
-Here are some ideas to get you started:
+I have experience in the area of industrial electricity (electrician assistant), electrical infrastructure projects (electrical technician), electrical installation and electrical repair of automotive vehicles (car electrician), computer technician, instructor in the area of electricity, telecommunications and air conditioning . I have higher education like Bachelor of Science and Technology and Bachelor of Mechanical Engineering, I continue trying to combine activities within the job market with capacity opportunities.I  dicide    to  make   i git hub  profile     because   today  almost   every area   today ( or all)   today   it´s  necessary   knowledge   in  the    computation  area  mostly  Artificial Inteligences. ".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Programming languages ​​and technologies that I have had contact with and/or am looking to learn
+
+
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+<br/>
+<br/>
