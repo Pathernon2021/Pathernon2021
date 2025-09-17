@@ -2,7 +2,7 @@
 
 **Technology Professional**
 
-I have experience in the area of industrial electricity (electrician assistant), electrical infrastructure projects (electrical technician), electrical installation and electrical repair of automotive vehicles (car electrician), computer technician, instructor in the area of electricity, telecommunications and air conditioning . I have higher education like Bachelor of Science and Technology and Bachelor of Mechanical Engineering, I continue trying to combine activities within the job market with capacity opportunities.I  dicide    to  make   i git hub  profile     because   today  almost   every area   today ( or all)   today   it´s  necessary   knowledge   in  the    computation  area  mostly  Artificial Inteligences. 
+I have experience in the area of industrial electricity (electrician assistant), electrical infrastructure projects (electrical technician), electrical installation and electrical repair of automotive vehicles (car electrician), computer technician, instructor in the area of electricity, telecommunications and air conditioning . I have higher education like Bachelor of Science and Technology and Bachelor of Mechanical Engineering, I continue trying to combine activities within the job market with capacity opportunities.I  dicide    to  make   i git hub  profile     because   today  almost   every area   today ( or all)   today   it´s  necessary   knowledge   in  the    computation  area  mostly  Artificial Inteligences. ".
 
 
 ---
@@ -27,7 +27,18 @@ I have experience in the area of industrial electricity (electrician assistant),
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+  align="left"
+  alt="ChatGPT"
+  title="ChatGPT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg"
+/>
 
 
 <br/>
 <br/>
+
+
+
