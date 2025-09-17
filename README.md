@@ -52,6 +52,7 @@ I have experience in the area of industrial electricity (electrician assistant),
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
+
 <br/>
 <br/>
 
