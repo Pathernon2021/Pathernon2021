@@ -52,6 +52,15 @@ I have experience in the area of industrial electricity (electrician assistant),
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
+<img
+  align="left"
+  alt="Ladder Logic"
+  title="Ladder Logic (CLP)"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://raw.githubusercontent.com/Pathernon2021/Pathernon2021/main/ladder_logic.svg.webp"
+/>
+
 
 <br/>
 <br/>
