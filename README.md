@@ -67,7 +67,7 @@ I have experience in the area of industrial electricity (electrician assistant),
   title="n8n simbol"
   width="30px"
   style="padding-right: 10px;"
-  src="Logo by n8n.io: https://cdn.brandfetch.io/idO6_6uqJ9/w/600/h/600/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1763457410569"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETZo68e66HKSXISG2uQb22K9iDC1wDK0ToIGiZcdmsGwFhI5FN1jLTRXU1ZP50Kq5_YY&usqp=CAU"
 />
 
 
