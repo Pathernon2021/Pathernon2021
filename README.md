@@ -61,6 +61,15 @@ I have experience in the area of industrial electricity (electrician assistant),
   src="https://raw.githubusercontent.com/Pathernon2021/Pathernon2021/main/ladder_logic.svg.webp"
 />
 
+<img
+  align="left"
+  alt="n8n simbol"
+  title="n8n simbol"
+  width="30px"
+  style="padding-right: 10px;"
+  src="Logo by n8n.io: https://cdn.brandfetch.io/idO6_6uqJ9/w/600/h/600/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1763457410569"
+/>
+
 
 <br/>
 <br/>
