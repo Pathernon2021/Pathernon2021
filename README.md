@@ -69,7 +69,7 @@ I have experience in the area of industrial electricity (electrician assistant),
   style="padding-right: 10px;"
   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETZo68e66HKSXISG2uQb22K9iDC1wDK0ToIGiZcdmsGwFhI5FN1jLTRXU1ZP50Kq5_YY&usqp=CAU"
 />
-
+<img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini Logo" height="40">
 
 <br/>
 <br/>
